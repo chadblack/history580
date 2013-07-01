@@ -238,9 +238,8 @@ header, footer, nav, article, figure, figcaption {
 
 /* 404 */
 
-.404 {
+div.404 {
     text-align:center;
-    font-size:130%;
     font-family: 'Lekton', Helvetica, Arial, sans-serif;
 }
 
