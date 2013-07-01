@@ -1,0 +1,33 @@
+---
+layout: default
+title: History 580/482 | Digital History in Theory and Practice
+meta-description: "History 580/482 is a seminar in Digital History offered at the University of Tennessee, Knoxville in Fall 2013."
+---
+
+<header>
+	<h1 id="title_string"><a href="/">History 580/482</a></h1>
+</header>
+
+<nav>
+	<h2 class="section_title">Info</h2>
+	<ul class="items">
+		<li><span class="bullet">Why are we here?</span> <a href="/info/about/">     About</a></li>
+		<li><span class="bullet">What are we doing?</span> <a href="/info/assignments/">   Assignments</a></li>
+        <li><span class="bullet">When are we doing it?</span><a href="/info/syllabus/"> Syllabus</a></li>
+		<li><span class="bullet">How was this made?</span> <a href="/info/colophon/"> Colophon</a></li>
+	</ul>
+</nav>
+
+<nav>
+	<h2 class="section_title">Posts</h2>
+	<ul class="items">
+		{% for post in site.posts limit: 20 %}
+			{% if post.category != 'text' %}
+			<li><span class="bullet">{{post.date | date_to_string }}</span> <a href="{{post.url }}">{{ post.title }}</a></li>
+			{% endif %}
+		{% endfor %}
+		<li><a href="/info/all_posts/">show all . . .</a></li>
+	</ul>
+</nav>
+
+

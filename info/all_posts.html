@@ -1,0 +1,20 @@
+---
+layout: default
+title: History 508/482 -- All Posts
+meta-description: "History 580/482's blog posts."
+---
+
+<div id="title">
+	<span id="title_string"><a href="/">History 580/482</a></span>&nbsp;&nbsp;&nbsp; <span id="nav"><a href="/">Home</a></span><br>
+</div>
+
+<div id="blog_section">
+	<div class="section_title">Posts</div>
+	<ul class="items">
+		{% for post in site.posts  %}
+			{% if post.category != 'text' %}
+			<li><span class="bullet">{{post.date | date_to_string }}</span> <a href="{{post.url }}">{{ post.title }}</a></li>
+			{% endif %}
+		{% endfor %}
+	</ul>
+</div>
