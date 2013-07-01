@@ -1,0 +1,237 @@
+@charset "UTF-8";
+
+/* Common */
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+em {
+	font-family: "Alegreya";
+	font-weight: normal;
+	font-style: italic;
+}
+
+code {
+  font-family: "Source Code Pro", sans-serif;
+  font-size: 18px;
+	font-weight: normal;
+	font-style: normal;
+}
+
+p {
+  width: 600px;
+  line-height: 120%;
+}
+
+br.clear {
+	clear:left;
+}
+
+#atomfeed {
+	vertical-align:middle;
+ 	border:0;
+}
+
+.badge {
+	width: 88px;
+	height: 31px;
+}
+
+#feed-badge {
+	width: 14px;
+	height: 14px;
+}
+
+#html5 {
+	height: 31px;
+}
+
+html, body { height: 100%; }
+
+a:link, a:visited {text-decoration: none;}
+
+body {
+	margin: 0;
+	padding: 0;
+	color: #000000;
+	color: hsl(0,0%,0%);
+	background: #ffffff;
+	background: hsl(0, 0%, 100%);
+}
+
+img.full {
+	width: 600px;
+}
+
+img#busa {
+	width: 312px;
+	height: 256px;
+}
+
+img#error {
+	width: 720px;
+	height: 550px;
+}
+
+abbr {
+  font-family: "Alegreya SC";
+  font-size: 21px;
+	font-weight: normal;
+	font-style: normal;
+}
+
+#container {
+	width: 50em;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#title_string {
+	font-family: 'Molengo', Georgia, Times, serif;
+	font-size: 47.25px;
+	font-weight: bold;
+	font-style: normal;
+}
+
+#nav {
+	font-family: 'Lekton', Helvetica, Arial, sans-serif;
+	line-height: 46px;
+	font-style: normal;
+	font-weight: normal;
+}
+
+footer {
+	font-size: 80%;
+	color: #666666;
+	color: hsl(0, 0%, 40%);
+  border-top: 4px solid;
+	margin-top: 2em;
+}
+
+footer img {
+	float: left;
+	padding-right: 10px;
+	margin-bottom: 100px;
+}
+
+blockquote {
+  margin: 40px;
+}
+
+/* Home */
+
+a:link {
+	color: #000000;
+	color: hsl(0,0%,0%);
+}
+a:visited {
+	color: #000000;
+	color: hsl(0,0%,0%);
+}
+a:hover {
+	color: #000000;
+	color: hsl(0,0%,0%);
+}
+a:active {
+	color: #000000;
+	color: hsl(0,0%,0%);
+}
+
+.section_title {
+	font-family: 'Molengo', Georgia, Times, serif;
+	font-size: 47.25px;
+	line-height: 200%;
+	font-weight: bold;
+	font-style: normal;
+}
+
+ul {
+	list-style-type: none;
+}
+
+.items {
+	font-family: 'Lekton', Helvetica, Arial, sans-serif;
+	font-size: 21px;
+	font-style: normal;
+	font-weight: normal;
+}
+
+.bullet {
+	font-size: 16px;
+	color: #808080;
+	color: hsl(0, 0%, 50%);
+}
+
+.new {
+	font-size: 16px;
+	color: #FF0000;
+	color: hsl(0, 100%, 50%);
+}
+
+.sc { 
+  font-family: "Alegreya SC";
+  font-size: 21px;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.sidenote { 
+  position: absolute;
+  margin-right: -150px;
+}
+
+video {
+	width: 500px;
+}
+
+/* Posts */
+
+article .attribution {
+	margin-left: 150px;
+}
+
+article .page_title {
+	font-family: 'Lekton', Helvetica, Arial, sans-serif;
+	font-size: 31.5px;
+	width: 600px;
+	line-height: 120%;
+	font-weight: bold;
+	font-style: normal;
+}
+
+article p {
+	font-family: "Alegreya", Georgia, serif;
+  font-size: 21px;
+	margin: 1em 0;
+	font-weight: normal;
+	font-style: normal;
+}
+
+article li {
+	font-family: "Alegreya", Georgia, serif;
+  font-size: 21px;
+	margin: 1em 0;
+	font-weight: normal;
+	font-style: normal;
+}
+
+article p a:link {
+	color:#666666;
+	color: hsl(0, 0%, 40%);
+}
+article p a:visited {
+	color: #999999;
+	color: hsl(0, 0%, 60%);
+}
+
+article sup {
+	font-size: 14px;
+}
+
+/* Compatibility */
+
+header, footer, nav, article, figure, figcaption {
+	display: block;
+}

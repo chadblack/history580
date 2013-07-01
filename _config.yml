@@ -5,5 +5,4 @@ post_dirs: false
 
 plugins: ./_plugins
 
-markdown: kramdown
 permalink: pretty
