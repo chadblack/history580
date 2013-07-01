@@ -235,3 +235,11 @@ article sup {
 header, footer, nav, article, figure, figcaption {
 	display: block;
 }
+
+/* 404 */
+
+#404 {
+    text-align:center;
+    font-size:130%;
+}
+
