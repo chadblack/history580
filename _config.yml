@@ -1,0 +1,9 @@
+safe: true
+auto: false
+base-url: /
+post_dirs: false
+
+plugins: ./_plugins
+
+markdown: kramdown
+permalink: pretty
