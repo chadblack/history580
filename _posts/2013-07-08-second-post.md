@@ -1,8 +1,9 @@
 ---
-published: false
+published: true
 layout: post
 title: a second post
-tags: parezcoydigo
+tags: [parezcoydigo, jekyll, prose.io]
+meta-description: "This isn't going well."
 ---
 
 ## Written in Prose.io

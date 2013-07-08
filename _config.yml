@@ -5,4 +5,5 @@ destination: ../_site
 
 plugins: ./_plugins
 
+markdown: rdiscount
 permalink: pretty
