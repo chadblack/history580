@@ -49,13 +49,21 @@ br.clear {
 
 html, body { height: 100%; }
 
-a:link, a:visited {text-decoration: none;}
+li a:link {
+    color: FireBrick;
+    text-decoration: none;
+}
+
+   
+li a:visited { color: RosyBrown;
+    text-decoration: none;
+}
 
 body {
 	margin: 0;
 	padding: 0;
 	color: #000000;
-	color: hsl(0,0%,0%);
+	color: hsl(0,0%,0%); 
 	background: #ffffff;
 	background: hsl(0, 0%, 100%);
 }
@@ -121,13 +129,17 @@ blockquote {
 
 /* Home */
 
+a {
+    text-decoration: none;
+}
+
 a:link {
 	color: #000000;
 	color: hsl(0,0%,0%);
 }
 a:visited {
 	color: #000000;
-	color: hsl(0,0%,0%);
+	color: hsl(0,0%,0%); 
 }
 a:hover {
 	color: #000000;
@@ -217,12 +229,10 @@ article li {
 }
 
 article p a:link {
-	color:#666666;
-	color: hsl(0, 0%, 40%);
+	color:Firebrick;
 }
 article p a:visited {
-	color: #999999;
-	color: hsl(0, 0%, 60%);
+	color: RosyBrown;
 }
 
 article sup {
