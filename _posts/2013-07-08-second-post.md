@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: a second post
-tags: [parezcoydigo, jekyll, prose.io]
+author: parezcoydigo
 meta-description: "This isn't going well."
 ---
 

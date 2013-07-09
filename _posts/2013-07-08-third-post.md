@@ -2,8 +2,7 @@
 published: true
 layout: post
 title: two posts on one day?
-time: "16:00"
-tags: [parezcoydigo, jekyll]
+author: parezcoydigo
 meta-description: "still working"
 ---
 
