@@ -14,11 +14,21 @@ lsi: true
 
 
 # prose.io options
-root_url: "history580/history580.github.io/tree/master/_posts"
-metadata:
-    - name: "layout"
-      field: 
-        element: "hidden"
-        value: "post"
-    - name: "author"
-    - name: "title"
+prose:
+    root_url: "_posts"
+    metadata:
+      _posts:
+        - name: "layout"
+          field: 
+            element: "hidden"
+            value: "post"
+        - name: "author"
+          field: 
+            element: "text"
+            label: "Author"
+            value: ""
+        - name: "title"
+          field:
+            element: "text"
+            label: "Title"
+            value: ""
