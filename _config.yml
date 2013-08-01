@@ -29,5 +29,5 @@ prose:
             value: ""
         - name: "published"
             field:
-              element: "hidden"
+              element: "text"
               value: "true"
