@@ -11,7 +11,14 @@ permalink: pretty
 timezone: America/New_York
 lsi: true
 
+
+
 # prose.io options
-
-
-root_url: "_posts"
+root_url: "history580/history580.github.io/tree/master/_posts"
+metadata:
+    - name: "layout"
+      field: 
+        element: "hidden"
+        value: "post"
+    - name: "author"
+    - name: "title"
