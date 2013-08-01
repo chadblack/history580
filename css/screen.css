@@ -253,3 +253,12 @@ header, footer, nav, article, figure, figcaption {
     font-size: 14px;
 }
 
+div.maruku_toc ul {
+    display: table;
+    width: 100%;
+    margin: 1em;
+}
+div.maruku_toc li {
+    display: table-cell;
+}
+
