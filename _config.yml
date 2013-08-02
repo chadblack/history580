@@ -3,6 +3,8 @@ base-url: /
 post_dirs: false
 destination: ../_site
 
+readings: "http://chadblack.net/media/readings"
+
 plugins: ./_plugins
 
 markdown: maruku
