@@ -24,6 +24,11 @@ p {
   line-height: 120%;
 }
 
+h1 {
+    padding-top: 1em;
+}
+
+
 br.clear {
 	clear:left;
 }
@@ -228,6 +233,10 @@ article li {
 	font-style: normal;
 }
 
+article ul li:before {
+    content: "\00BB \0020";
+}
+
 article p a:link {
 	color:Firebrick;
 }
@@ -261,4 +270,8 @@ div.maruku_toc ul {
 div.maruku_toc li {
     display: table-cell;
 }
+div.maruku_toc li:before{
+    content: "";
+}
+
 
