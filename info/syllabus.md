@@ -97,6 +97,7 @@ Set up a github account; The basics of prose.io; The basics of markdown.
 
 *Readings:*   
 
+
 *Topics:* 
 
 *Lab:*
@@ -105,15 +106,15 @@ Set up a github account; The basics of prose.io; The basics of markdown.
 
 *Readings:*   
 
-*  Marshall McLuhan, *Understanding Media: The Extensions of Man* (MIT Press, 1994). **Grads:** Whole book. **Undergrads:** Part I, and 3 selections from Part II.
+* Marshall McLuhan, *Understanding Media: The Extensions of Man* (MIT Press, 1994). **Grads:** Whole book. **Undergrads:** Part I, and 3 selections from Part II.
 
-*  Watch/listen to these:  [Annie Hall](http://www.youtube.com/watch?v=OpIYz8tfGjY), [Dick Cavett](http://www.youtube.com/watch?v=LcqB2TESg8g&list=TL_6ZyruMx-1o), 
+*  Watch/listen to these:  [Annie Hall](http://www.youtube.com/watch?v=OpIYz8tfGjY), [Dick Cavett](http://www.youtube.com/watch?v=LcqB2TESg8g&list=TL_6ZyruMx-1o)
 
 * The [official site](http://www.marshallmcluhan.com/)  
 
 *  Alan Jacobs, [*Why Bother with Marshall Mcluhan*](http://www.thenewatlantis.com/publications/why-bother-with-marshall-mcluhan)
 
-*Topics:* 
+*  [Is the medium the message?](http://www.norvig.com/Gettysburg/index.htm)
 
 *Lab:*
 

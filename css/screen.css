@@ -163,9 +163,12 @@ a:active {
 	font-style: normal;
 }
 
-ul {
+
+nav ul {
 	list-style-type: none;
 }
+
+
 
 .items {
 	font-family: 'Lekton', Helvetica, Arial, sans-serif;
@@ -233,9 +236,12 @@ article li {
 	font-style: normal;
 }
 
+
+/*
 article ul li:before {
     content: "\00BB \0020";
 }
+*/
 
 article p a:link {
 	color:Firebrick;
