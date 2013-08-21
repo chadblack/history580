@@ -57,6 +57,8 @@ The following books are available for purchase at the bookstore, or of course fr
 
 Other readings will be available on the web, or through this course site. All readings must be done before the class for which they are assigned. Graduate students will generally read longer selections or additional readings beyond those for undergrads.  
 
+Looking for tools for digital research? [Bamboo DIRT](http://dirt.projectbamboo.org/) is a great place to start.  
+Looking for more on digital history? [Digital History Project](http://digitalhistory.unl.edu/index.php)  
 
 
 ---
@@ -114,7 +116,7 @@ None.
 *Topics:*  
 Course policies
 
-*Lab:*  
+*Lab:*   
 Set up a github account; The basics of prose.io; The basics of markdown.  
 
 
@@ -128,9 +130,11 @@ Set up a github account; The basics of prose.io; The basics of markdown.
 
 *  Matthew Kirschenbaum, [What is the Digital Humanities and What is it Doing in English Departments?](http://dhdebates.gc.cuny.edu/debates/text/38) from *Debates in the Digital Humanities*. Grad students read the rest of essays in [Part I](http://dhdebates.gc.cuny.edu/debates/part/2); undergrads pick two more.  
 
+*  Stephen Ramsay, [Fr. Roberto Busa, SJ (1913-2011)](http://stephenramsay.us/2011/08/11/father-roberto-busa/)
+
 *  [Interchange: The Promise of Digital History](http://www.journalofamericanhistory.org/issues/952/interchange/), *Journal of American History* 95.2 (Sept. 2008)
 
-*Lab:*
+*Lab:*   
 A.  [Philaplace](http://www.philaplace.org/).  
 B.  [Wordle](http://www.wordle.net/).  
 
@@ -148,109 +152,140 @@ B.  [Wordle](http://www.wordle.net/).
 
 *  [Is the medium the message?](http://www.norvig.com/Gettysburg/index.htm)
 
-*Lab:*
+*Lab:*  
 
-*  [Youtube Time Machine](http://yttm.tv/)  
-*  
+*  [YouTube Time Machine](http://yttm.tv/)  (Check out [this discussion](http://www.dighist.org/2011/01/bringing-historical-order-to-youtube/) too.)
+*  [What's On the Menu?](http://menus.nypl.org/)
+
 
 **week 4: theory of media II: new new media** (11 September 2013)  
 
 *Readings:*   
 
 *  Lev Manovich, *The Language of New Media*. Cambridge: The MIT Press, 2001.
+*  Dawn Gilpin, [Working the Twittersphere](http://www.academia.edu/197814/Working_the_Twittersphere_Microblogging_as_professional_identity_construction)
+*  Roy Rosenzweig, [Can History be Open Source? Wikipedia and the Future of the Past](http://chnm.gmu.edu/essays-on-history-new-media/essays/?essayid=42)  
+*  Tim O'Reilly, [What is Web 2.0](http://oreilly.com/web2/archive/what-is-web-20.html)  
 
 
-*Topics:* 
+*Lab:*  
 
-*Lab:*
+*  [Flickr](http://www.flickr.com/). How does it work? Can you find institutions that use it?  
+*  [Wikipedia](http://wikipedia.org). How does a wiki work? Wikipedia in particular? Review a few pages, both their public face and the history/discussion page. Pick at least one controversial topic.  
 
 **week 5: computation**  (18 September 2013) 
 
 *Readings:*   
+*  Charles Petzold, *Code: The Hidden Language of Computer Hardware and Software*. Microsoft Press, 2000. [Selections]()
+*  [How Computers Work](http://www.fastchip.net/howcomputerswork/p1.html)
 
-*Topics:* 
 
-*Lab:*
+*Lab:*  
+
+* [Computer History Museum](http://www.computerhistory.org/)  
+* 
 
 **week 6: the Interwebs**  (25 September 2013) 
 
 *Readings:*   
-
-*Topics:* 
+*  Jeff Galloway, *Protocol*.
+*  [How the Internet Works in 5 minutes](http://www.youtube.com/watch?v=7_LPdttKXPc)
 
 *Lab:*
 
 **week 7: Distant Readings**   (2 October 2013)  
 
-*Readings:*   
+*Readings:*  
+*  Moretti, *Graphs, Maps, and Trees*, selections.  
+*  Some [responses to Graphs, Maps, Trees](http://www.parlorpress.com/pdf/ReadingMapsGraphsTrees.pdf)  
+*  Michel, et. al. ["Quantitative Analysis of Culture Using Millions of Digitized Books"](http://www.sciencemag.org/content/331/6014/176.abstract), Science 331.6041 pp. 176-182.
 
-*Topics:* 
 
-*Lab:*
+*Lab:*  
+
+*  [Paper Machines](http://papermachines.org/), and it's [code repo](https://github.com/chrisjr/papermachines)
+*  [Google N-Gram Viewer](http://books.google.com/ngrams)
+*  [The Programming Historian](http://programminghistorian.org), First Lesson and Python.  
 
 **week 8: Text Analysis**   (9 October 2013)  
 
 *Readings:*   
+*  Matthew Jockers, *Macroanalysis*.  
+*  Chad Black, [Clustering with Compression](http://parezcoydigo.wordpress.com/2011/10/09/clustering-with-compression-for-the-historian/)  
+*  Ted Underwood [The Stone and the Shell](http://tedunderwood.com)-- pick some of the posts off of his list of better posts.
 
-*Topics:* 
-
-*Lab:*
+*Lab:*  
+*  [Voyant](http://voyeurtools.org)  
+*  [Mining the Dispatch](http://dsl.richmond.edu/dispatch/)  
+*  [The Programming Historian](http://programminghistorian.org), Topic Modelling, Data Manipulation  
 
 **week 9: A Work Week** (16 October 2013)  
 
-*Readings:*   
 
-*Topics:* 
-
-*Lab:*
-
-**week 10: Networks**  (23 October 2013)  
+**week 10: Mapping Networks, Time, and Space**  (23 October 2013)  
 
 *Readings:*   
+*  Scott Weingart, [Demystifying Networks I and II](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/), Journal of Digital Humanities 1.1.
+*  Martyn Jessop, [Digital Visualization as a Scholarly Activity](http://llc.oxfordjournals.org/content/23/3/281.abstract)  
+*  Easly and Kleinberg, [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/)
+*  Richard White, [What is Spatial History?](http://www.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29) -- take some time to poke around the Spatial History Project's site too.  
 
-*Topics:* 
+*Lab:*  
+*  [Hypercities](http://hypercities.com/)  
+*  [Trove Tools](http://wraggelabs.com/emporium/trove-tools/)
+*  [Republic of Letters](http://republicofletters.stanford.edu)  
+*  [BKLYNR](http://bklynr.com/block-by-block-brooklyns-past-and-present/)
 
-*Lab:*
 
-**week 11: Mapping and GIS** (30 October 2013)  
+**week 11: Narratives and New Media** (30 October 2013)  
 
 *Readings:*   
+*  Cohen and Rosenzweig, [Becoming Digital](http://chnm.gmu.edu/digitalhistory/digitizing/)  
+*  Hayden White, ["The Value of Narrativity in the Representation of Reality"](http://www.jstor.org/stable/1343174)  
+*  David J. Staley, [Sequential Art and Historical Narrative: A Visual History of Germany](http://quod.lib.umich.edu/j/jahc/3310410.0005.203?rgn=main;view=fulltext)  
+*  Alan Lui, [When was Linearity? The Meaning of Graphics in the Digital Age](http://digitalhistory.unl.edu/essays/liuessay.php)  
 
-*Topics:* 
 
-*Lab:*
+*Lab:*  
+
+*  [Invisible Australians](http://invisibleaustralians.org)  
+*  [Valley of the Shadow](http://valley.lib.virginia.edu)  
+*  [September 11 Digital Archive](http://911digitalarchive.org)  
 
 **week 12: Design** (6 November 2013)  
 
+* Watch Helvetica in Class.  
+
 *Readings:*   
 
-*Topics:* 
+*  Cohen and Rosenzweig, [Designing for the History Web through the end of the book](http://chnm.gmu.edu/digitalhistory/)  
+*  [Butterick's Practical Typography](http://practicaltypography.com)
+*  [Readings for Design in the Digital Humanities](http://clioweb.org/2007/01/31/readings-in-design-for-digital-humanities/) -- a starting point for chasing links....  
+*  Dan Brown, *Communicating Design*, selections.  
 
-*Lab:*
+
+*Lab:*  
+
+*  [Omeka.net](http://omeka.net)   
+*  [Wordpress.com](http://wordpress.com)  
 
 **week 13: Copyright**  (13 November 2013)  
 
 *Readings:*   
-
-*Topics:* 
+T.B.D  
 
 *Lab:*
 
 **week 14: Scholarly Communication in the Digital Age** (20 November 2013)  
 
-*Readings:*   
+*Readings:*  
+*  [Writing History in the Digital Age](http://writinghistory.trincoll.edu)  
+*  [Planned Obsolescence](http://mediacommons.futureofthebook.org/mcpress/plannedobsolescence/)  
+*  Robert B. Townsend, [How is New Media Reshaping the Work of Historians?](http://www.historians.org/perspectives/issues/2010/1011/1011pro2.cfm)  
+*  Robert B. Townsend, [Assessing the Future of Peer Review](http://blog.historians.org/2010/06/assessing-the-future-of-peer-review/)  
 
-*Topics:* 
-
-*Lab:*
 
 **week 15: Final Work Week** (27 November 2013)
-
-*Readings:*   
-
-*Topics:* 
-
-*Lab:*
 
 
 **Presentations -- Poster presentations at our Scheduled Exam time.**
