@@ -113,8 +113,6 @@ Please note-- this syllabus is an open-ended work-in-progress. We will make chan
 *Readings:*   
 None. 
 
-*Topics:*  
-Course policies
 
 *Lab:*   
 Set up a github account; The basics of prose.io; The basics of markdown.  
@@ -154,8 +152,8 @@ B.  [Wordle](http://www.wordle.net/).
 
 *Lab:*  
 
-*  [YouTube Time Machine](http://yttm.tv/)  (Check out [this discussion](http://www.dighist.org/2011/01/bringing-historical-order-to-youtube/) too.)
-*  [What's On the Menu?](http://menus.nypl.org/)
+A.  [YouTube Time Machine](http://yttm.tv/)  (Check out [this discussion](http://www.dighist.org/2011/01/bringing-historical-order-to-youtube/) too.)    
+B.  [What's On the Menu?](http://menus.nypl.org/)
 
 
 **week 4: theory of media II: new new media** (11 September 2013)  
@@ -170,8 +168,8 @@ B.  [Wordle](http://www.wordle.net/).
 
 *Lab:*  
 
-*  [Flickr](http://www.flickr.com/). How does it work? Can you find institutions that use it?  
-*  [Wikipedia](http://wikipedia.org). How does a wiki work? Wikipedia in particular? Review a few pages, both their public face and the history/discussion page. Pick at least one controversial topic.  
+A.  [Flickr](http://www.flickr.com/). How does it work? Can you find institutions that use it?  
+B.  [Wikipedia](http://wikipedia.org). How does a wiki work? Wikipedia in particular? Review a few pages, both their public face and the history/discussion page. Pick at least one controversial topic.  
 
 **week 5: computation**  (18 September 2013) 
 
@@ -182,16 +180,24 @@ B.  [Wordle](http://www.wordle.net/).
 
 *Lab:*  
 
-* [Computer History Museum](http://www.computerhistory.org/)  
-* 
+A.  [Computer History Museum](http://www.computerhistory.org/)  
+B.  Internet Archive's [Computer Newsletters](http://archive.org/details/computernewsletters) and [Folkscanomy](http://archive.org/details/folkscanomy_electronics) projects.  
+C.  [bitcurator](http://www.bitcurator.net/)  
+
 
 **week 6: the Interwebs**  (25 September 2013) 
 
 *Readings:*   
 *  Jeff Galloway, *Protocol*.
 *  [How the Internet Works in 5 minutes](http://www.youtube.com/watch?v=7_LPdttKXPc)
+*  Tim Berners-Lee and CERN [original proposal for the www](http://www.w3.org/History/1989/proposal.html)
+*  [The Machine is Us/ing Us](http://www.youtube.com/watch?v=NLlGopyXT_g)  
 
-*Lab:*
+
+*Lab:*  
+
+A.  Internet Archive [Wayback Machine](http://archive.org/web/web.php)  
+B.  [The Internet Map](http://internet-map.net/)  
 
 **week 7: Distant Readings**   (2 October 2013)  
 
