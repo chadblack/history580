@@ -63,6 +63,28 @@ Other readings will be available on the web, or through this course site. All re
 
 # requirements
 
+See the [Assignments](/info/assignments) page for more information.
+
+
+1. *Reading and Participation*. (30% of grade) Each week's assigned readings must be completed before class. 
+    *  Tool/resource demonstration. 
+    *  Lead discussion of readings.
+    *  Attendance (it's mandatory!).
+
+2. *Blog essays.*  (30 % of grade)
+    *  Reading response posts. (2 posts, sign up on week 2)  
+    *  Tool/resource response post. (1 post, sign up on week 2)  
+    *  Show and Tell. 1 post.
+    *  Project posts. 2 proposal posts (print, digital), 1 reflection.
+    *  Commenting. 12 substantial comments on posts on the course blog.
+
+3. *Project*  
+    *  Proposal for a print project.
+    *  Proposal for a digital project.  
+    *  Final paper OR final digital resource and write-up.  
+    *  Final project poster presentation.  
+    *  Project reflection post.  
+
 
 ---
 
@@ -81,13 +103,16 @@ Office Hours: Students are strongly encouraged to speak with me outside of class
 
 # schedule
 
+Please note-- this syllabus is an open-ended work-in-progress. We will make changes as the semester goes on, in part in response to your interests and needs and in part on as I see fit. You might want to check it frequently. It's on github, so we can look back at previous iterations as needed. 
+
+
 **week 1: introduction** ( 21 August 2013)  
 
 *Readings:*   
 None. 
 
 *Topics:*  
-Course policies; An introduction to the Digital Age; Compu-what?
+Course policies
 
 *Lab:*  
 Set up a github account; The basics of prose.io; The basics of markdown.  
@@ -97,10 +122,17 @@ Set up a github account; The basics of prose.io; The basics of markdown.
 
 *Readings:*   
 
+*  Daniel Cohen and Roy Rosenzweig, *Digital History*, [Introduction](http://chnm.gmu.edu/digitalhistory/introduction/), [Chapter 1](http://chnm.gmu.edu/digitalhistory/exploring/)  
 
-*Topics:* 
+*  Susan Hockey, [The History of Humanities Computing](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-2-1), in *A Companion to Digital Humanities*, ed. Susan Schreibman, Ray Siemans, John Unsworth. Oxford: Blackwell, 2004.
+
+*  Matthew Kirschenbaum, [What is the Digital Humanities and What is it Doing in English Departments?](http://dhdebates.gc.cuny.edu/debates/text/38) from *Debates in the Digital Humanities*. Grad students read the rest of essays in [Part I](http://dhdebates.gc.cuny.edu/debates/part/2); undergrads pick two more.  
+
+*  [Interchange: The Promise of Digital History](http://www.journalofamericanhistory.org/issues/952/interchange/), *Journal of American History* 95.2 (Sept. 2008)
 
 *Lab:*
+A.  [Philaplace](http://www.philaplace.org/).  
+B.  [Wordle](http://www.wordle.net/).  
 
 **week 3: theory of media I: the old new media** (4 September 2013) 
 
@@ -118,15 +150,21 @@ Set up a github account; The basics of prose.io; The basics of markdown.
 
 *Lab:*
 
+*  [Youtube Time Machine](http://yttm.tv/)  
+*  
+
 **week 4: theory of media II: new new media** (11 September 2013)  
 
 *Readings:*   
+
+*  Lev Manovich, *The Language of New Media*. Cambridge: The MIT Press, 2001.
+
 
 *Topics:* 
 
 *Lab:*
 
-**week 5: information**  (18 September 2013) 
+**week 5: computation**  (18 September 2013) 
 
 *Readings:*   
 
@@ -142,7 +180,7 @@ Set up a github account; The basics of prose.io; The basics of markdown.
 
 *Lab:*
 
-**week 7:**   (2 October 2013)  
+**week 7: Distant Readings**   (2 October 2013)  
 
 *Readings:*   
 
@@ -150,7 +188,7 @@ Set up a github account; The basics of prose.io; The basics of markdown.
 
 *Lab:*
 
-**week 8:**   (9 October 2013)  
+**week 8: Text Analysis**   (9 October 2013)  
 
 *Readings:*   
 
@@ -158,7 +196,7 @@ Set up a github account; The basics of prose.io; The basics of markdown.
 
 *Lab:*
 
-**week 9:** (16 October 2013)  
+**week 9: A Work Week** (16 October 2013)  
 
 *Readings:*   
 
@@ -166,7 +204,7 @@ Set up a github account; The basics of prose.io; The basics of markdown.
 
 *Lab:*
 
-**week 10:**  (23 October 2013)  
+**week 10: Networks**  (23 October 2013)  
 
 *Readings:*   
 
@@ -174,7 +212,7 @@ Set up a github account; The basics of prose.io; The basics of markdown.
 
 *Lab:*
 
-**week 11:** (30 October 2013)  
+**week 11: Mapping and GIS** (30 October 2013)  
 
 *Readings:*   
 
@@ -182,7 +220,7 @@ Set up a github account; The basics of prose.io; The basics of markdown.
 
 *Lab:*
 
-**week 12:** (6 November 2013)  
+**week 12: Design** (6 November 2013)  
 
 *Readings:*   
 
@@ -190,7 +228,7 @@ Set up a github account; The basics of prose.io; The basics of markdown.
 
 *Lab:*
 
-**week 13:**  (13 November 2013)  
+**week 13: Copyright**  (13 November 2013)  
 
 *Readings:*   
 
@@ -198,7 +236,7 @@ Set up a github account; The basics of prose.io; The basics of markdown.
 
 *Lab:*
 
-**week 14:** (20 November 2013)  
+**week 14: Scholarly Communication in the Digital Age** (20 November 2013)  
 
 *Readings:*   
 
@@ -206,13 +244,16 @@ Set up a github account; The basics of prose.io; The basics of markdown.
 
 *Lab:*
 
-**week 15:** (27 November 2013)
+**week 15: Final Work Week** (27 November 2013)
 
 *Readings:*   
 
 *Topics:* 
 
 *Lab:*
+
+
+**Presentations -- Poster presentations at our Scheduled Exam time.**
 
 ---
 
