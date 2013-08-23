@@ -9,17 +9,13 @@ This course is a strange bird for a History seminar. It is part theory and part 
 1.  Reading and participation.  
     *  Demonstrations: 10-15 min demonstration of the tool you wrote about on the course blog.  
     *  Lead discussion: What are the arguments of the readings you wrote on your blog about. Be prepared with three substantiative questions to move discussion for your given week.  
-2.  Course blog.  
+2.  Course blog.   
     *  Everyone must write a series of posts on the course blog. I would encourage you to also open your own space on the web, and write more there or cross-post your writings. This will be particularly helpful for the project posts.  
-
-This course is about doing as much as talking. That begins with writing, and responding, on the web. On the first day of class, I will help you all get started with the course blog and prose.io. You are required to post a minimum of 7 posts during the semester. Twice during your discussion weeks, once on the digital tool or resource that you demonstration, once about a relevant work/resource you found on your own, once about each of your project proposals, and a reflection on your project. 
-
-Though these are blog posts, which by form and nature are shorter and less formal than traditional academic writing, they should be thoughtful, well-written, and sourced. Blog posts are concise, which makes each word more important. Say something meaningful, in just 500-800 words. Invite discussion. Posts for a given week must be on the site the Sunday before class meets.  
-
-**Identity**  
+    *  This course is about doing as much as talking. That begins with writing, and responding, on the web. On the first day of class, I will help you all get started with the course blog and prose.io. You are required to post a minimum of 7 posts during the semester. Twice during your discussion weeks, once on the digital tool or resource that you demonstration, once about a relevant work/resource you found on your own, once about each of your project proposals, and a reflection on your project. 
+    *  Though these are blog posts, which by form and nature are shorter and less formal than traditional academic writing, they should be thoughtful, well-written, and sourced. Blog posts are concise, which makes each word more important. Say something meaningful, in just 500-800 words. Invite discussion. Posts for a given week must be on the site the Sunday before class meets.  
+    *  **Identity**  
 This is a public forum. Your first task is to consider what you want your identity to be. You are welcome to use a psuedonym, your real name, or some combination of the two. I fall, generally, into the latter category. I'm found around the web as parezcoydigo, but I don't hide the fact that he is me.  
-
-**Reading and Commenting are requirements too.**  The course blog is a central hub of activity for this class. Everyone must follow it. Posts should invite conversation, and comments will foster it.  
+    *  **Reading and Commenting are requirements too.**  The course blog is a central hub of activity for this class. Everyone must follow it. Posts should invite conversation, and comments will foster it.  
 
 
 3.  Semester project. 
