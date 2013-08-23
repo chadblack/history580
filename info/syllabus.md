@@ -29,6 +29,9 @@ But what might we gain if we begin to use the computer to do something that only
 
 In this course we will consider these questions as we explore the nascent field of Digital History (DH). Through readings and various projects, we will familiarize ourselves with the concepts, tools, and debates of and within DH. In teams, undergraduate and graduate students in this seminar will work together to construct a Digital History project. We will be part lab, part discussion seminar, and will learn by doing as much as by talking.
 
+Many thanks to [Fred Gibbs](http://fredgibbs.net/) and [Trevor Owens](http://www.trevorowens.org/), from whose own digital history syllabi I borrowed extensively. Credit to them.  
+
+
 ### Course Objectives  
 
 1.  To introduce students to the history of digital technology, and to its impact on the practice of history.  
