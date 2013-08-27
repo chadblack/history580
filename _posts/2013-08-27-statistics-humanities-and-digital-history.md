@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: "Statistics, Humanities, and Digital History"
+author: MonsBadonicus
 ---
 
 ##Statistics, Humanities, and Digital History
