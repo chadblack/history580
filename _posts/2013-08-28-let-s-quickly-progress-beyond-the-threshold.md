@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: "Let's quickly progress beyond the threshold"
+title: Let's quickly progress beyond the threshold
 author: charleswalton2013
 ---
 
