@@ -204,6 +204,7 @@ B.  [The Internet Map](http://internet-map.net/)
 
 **week 7: Distant Readings**   (2 October 2013)  
 
+
 *Readings:*  
 *  Moretti, *Graphs, Maps, and Trees*, selections.  
 *  Some [responses to Graphs, Maps, Trees](http://www.parlorpress.com/pdf/ReadingMapsGraphsTrees.pdf)  
@@ -218,7 +219,10 @@ B.  [The Internet Map](http://internet-map.net/)
 
 **week 8: Text Analysis**   (9 October 2013)  
 
+** Proposal's Due!! Short proposal pitches: Five minutes each telling the group about your poposals. Tell us which one you plan to finish. 
+
 *Readings:*   
+
 *  Matthew Jockers, *Macroanalysis*.  
 *  Chad Black, [Clustering with Compression](http://parezcoydigo.wordpress.com/2011/10/09/clustering-with-compression-for-the-historian/)  
 *  Ted Underwood [The Stone and the Shell](http://tedunderwood.com)-- pick some of the posts off of his list of better posts.
