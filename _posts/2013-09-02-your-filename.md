@@ -1,0 +1,14 @@
+---
+published: true
+layout: post
+title: ""
+---
+
+
+I want to start of by saying that Understanding Media is easily one of the most bewildering, onerous works I've ever read. It suffers from a critical lack of focus, definition(that's for you Matt), and intelligible cogence/progression. It is irretrievably vague in both form and content(pun totally intended and, like McLuhan, I'll only come back and half-explain it later on in my argument) But let's start with the strengths of his work. 
+
+McLuhan's work is essentially a statement on the need to harness technology for the betterment of society. His work cares little for content, however, instead focusing on the form itself; the medium or media. For him, the history of human development can be tied to the development of media and the effect this development had on the dissemination of information between people. This progression is essentially from the mechanical print-based culture(linear, analytical, and logic-based) to the electric new media of radio, television, and presumably internet(unified, intuitive, and simultaneous in its creation/destruction and dissemination/consumption). For McLuhan, it is the need to understand the effect of the changing medium rather than the content that drives him. And in his ability to anticipate the simultaneity of the web and the leveling power of instantanous information sharing is impressive and prophetic(an appropriate adjective considering both the sage-like reputation he attained among his contemporary proponents and his repeated reliance on analogy and parable devoid of annoying attempts at specificity).
+
+But how does he get there? Ironically, it is by putting too much emphasis on form over content. Why is a motion film "hot" while television programming is "cool"? If all the value is in the form rather than the content to the point of content being superfluous, then why distinguish between televised political ad and a toothpaste commercial? How can a "totally new" technology like air-travel represent a philosophical shift from an "old form" like the railroad if neither really supplants the other? His need to emphacize form over content in this book becomes less and less a point of philosophical contention and a choice of style and narrative. Just as he welcomes the ubiquity of instantaneous information sharing, I experience the familiar reminder of Himmelfarb's lament against a system which cannot distinguish between insights of import and the trivium of ethereality. But to return to my pun- Does that sound vague, wordy, and overly-reliant on the pretentousness of my vocabulary and my audience's intellect? welcome to "Understanding Media" by Marshall McLuhan. 
+
+j. tomlin
