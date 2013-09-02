@@ -169,3 +169,5 @@ Grosswiler, Paul. “The Dialectical Methods of Marshall McLuhan, Marxism, and C
 Marshall McLuhan: Theoretical Elaborations. Ed. Gary Genosko. New York: Routledge, 2005. 283-310. Print.
 McLuhan, Marshall. Understanding Media: The Extensions of Man. Cambridge: The MIT Press, 1994. Print.
 McLuhan’s Wake. Dir. Kevin McMahon. Montreal, Quebec: Primitive Entertainment/National Film Board of Canada, 2002. Film.
+
+Letsinger (TN Saint)
