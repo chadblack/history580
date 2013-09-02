@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: Understanding Media...kind of
+author: jtomlin1
 ---
 
 I want to start of by saying that Understanding Media is easily one of the most bewildering, onerous works I've ever read. It suffers from a critical lack of focus, definition(that's for you Matt), and intelligible cogence/progression. It is irretrievably vague in both form and content(pun totally intended and, like McLuhan, I'll only come back and half-explain it later on in my argument) But let's start with the strengths of his work. 
