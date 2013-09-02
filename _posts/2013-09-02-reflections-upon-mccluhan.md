@@ -1,9 +1,8 @@
 ---
 published: true
 layout: post
-title: ""
+title: Reflections on McCluhan
 ---
-
 
 “After three thousand years of explosion, by means of fragmentary and mechanical technologies, the Western world is imploding” (McLuhan 3).1 With these words on the first page of Understanding Media published in 1964,Marshall McLuhan burst onto the intellectual scene with his most influential book. His book is infuriating, brilliant, and incoherent because it is not an easy book to understand.
 
@@ -170,5 +169,3 @@ Grosswiler, Paul. “The Dialectical Methods of Marshall McLuhan, Marxism, and C
 Marshall McLuhan: Theoretical Elaborations. Ed. Gary Genosko. New York: Routledge, 2005. 283-310. Print.
 McLuhan, Marshall. Understanding Media: The Extensions of Man. Cambridge: The MIT Press, 1994. Print.
 McLuhan’s Wake. Dir. Kevin McMahon. Montreal, Quebec: Primitive Entertainment/National Film Board of Canada, 2002. Film.
-
- 
