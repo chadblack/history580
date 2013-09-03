@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: Reflections on McCluhan
+author: "gallagherheroes "
 ---
 
 “After three thousand years of explosion, by means of fragmentary and mechanical technologies, the Western world is imploding” (McLuhan 3).1 With these words on the first page of Understanding Media published in 1964,Marshall McLuhan burst onto the intellectual scene with his most influential book. His book is infuriating, brilliant, and incoherent because it is not an easy book to understand.
