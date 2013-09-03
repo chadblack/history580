@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: Observations from class
+author: gallagherheroes
 ---
 
 interesting discussion today...bifurcated brain...price of gain v. information overload...multi-tasking a necessity in the future? Once best, now absolete? Is the dumbest generation a valid assertion?
