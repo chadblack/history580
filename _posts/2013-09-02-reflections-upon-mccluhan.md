@@ -14,7 +14,7 @@ Media as Extensions of Ourselves
 
 The core of McLuhan’s theory, and the key idea to start with in explaining him, is his definition of media as extensions of ourselves. McLuhan writes: “It is the persistent theme of this book that all technologies are extensions of our physical and nervous systems to increase power and speed” (90) and, “Any extension, whether
 of skin, hand, or foot, affects the whole psychic and social complex. Some of the principle extensions, together with some of their psychic and social consequences, are studied in this book” (4). From the premise that media,or technologies (McLuhan’s approach makes “media” and “technology” more or less synonymous terms), are
-extensions of some physical, social, psychological, or intellectual function of humans, flows all of McLuhan’s subsequent ideas. Thus, the wheel extends our feet, the phone extends our voice, television extends our eyes and ears, the computer extends our brain, and electronic media, in general, extend our central nervous system
+extensions of some physical, social, psychological, or intellectual function of humans, flows all of McLuhan’s subsequent ideas. Thus, the wheel extends our feet, the phone extends our voice, television extends our eyes and ears, the computer extends our brain, and electronic media, in general, extend our central nervous system.
 
 In McLuhan’s theory language too is a medium or technology (although one that does not require any physical object outside of ourselves) because it is an extension, or outering, of our inner thoughts, ideas, and feelings—that is, an extension of inner consciousness. McLuhan sees the enormous implications of the development of
 language for humans when he writes: “It is the extension of man in speech that enables the intellect to detach itself from the vastly wider reality. Without language . . . human intelligence would have remained totally involved
@@ -158,7 +158,7 @@ This wide applicability is instructive to students who appreciate the liberty to
 
 Question: can we relate to McLuhan because wwe find his theories to be a reflection of the reality we are living in today. Even as I struggle with McLuhan, Understanding Media has been one of the most influential books I have ever read in my academic career.
 
-1 Hereafter, unless otherwise indicated, all page numbers in parentheses will refer to Understanding Media and reference page numbers from the MIT Press edition published in 1994. 
+1 Hereafter, unless otherwise indicated, all page numbers in parentheses will refer to Understanding Media and reference page numbers from the Ginko Press edition published in 2011. 
 
 Works Cited
 David Bobbitt, Wesleyan College, December, 2011.
