@@ -161,7 +161,7 @@ Question: can we relate to McLuhan because wwe find his theories to be a reflect
 1 Hereafter, unless otherwise indicated, all page numbers in parentheses will refer to Understanding Media and reference page numbers from the Ginko Press edition published in 2011. 
 
 Works Cited
-David Bobbitt, Wesleyan College, December, 2011.
+David Bobbitt, Wesleyan College,2011.
 Carr, Nicholas. The Shallows: What the Internet is Doing to Our Brains. New York: W. W. Norton, 2010. Print.
 Gordon, W. Terrance. “Critical Reception to Understanding Media.” Understanding Media: The Extension of Man,
 Critical Edition. Ed. W. Terrance Gordon. Corte Madera, CA: Gingko Press, 2003. 545-558. Print.
