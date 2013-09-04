@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: The Medium is a funtion of the Message
+title: The Medium is a function of the Message
 author: MonsBadonicus
 ---
 
