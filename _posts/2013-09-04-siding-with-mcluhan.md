@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: Siding with McLuhan
+author: radiationturnips
 ---
 
 
