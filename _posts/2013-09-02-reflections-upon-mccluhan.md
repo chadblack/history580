@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Reflections on McCluhan
+title: Reflections on McCluhan by TN Saint
 author: "gallagherheroes "
 ---
 
