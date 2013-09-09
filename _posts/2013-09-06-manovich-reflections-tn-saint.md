@@ -2,9 +2,10 @@
 published: true
 layout: post
 title: "Manovich Reflections: TN Saint"
+author: gallagherheroes
 ---
 
-	With the rapid rise of the digital era and computer technology many people neglect to place this development within history. It is therefore not strange that Lev Manovich created the Language of New Media, not only to divide the old and new media but also to show the significance and resemblance in history. He does this by using many different examples such as photos, cinema and other art forms.
+With the rapid rise of the digital era and computer technology many people neglect to place this development within history. It is therefore not strange that Lev Manovich created the Language of New Media, not only to divide the old and new media but also to show the significance and resemblance in history. He does this by using many different examples such as photos, cinema and other art forms.
 
 	The introduction of this book makes perfectly clear what Manovich’s purpose of this book is: “I analyze the language of new media by placing it within the history of modern visual and media cultures.“ (Manovich, 2001, pg. 34). He furthermore explains that to achieve this he will delve deeper into different areas of new visual media and draw upon histories of art, photography and cinema. To do this he will “draw his theoretical frameworks from both the humanities and the sciences, utilizing art history, literary theory, media studies, social theory, and computer science.” (Manovich, 2001, pg. 35).   
     
@@ -19,4 +20,3 @@ title: "Manovich Reflections: TN Saint"
              In this book Manovich tries to present a new modern insight into the aspects of new media. He argues that the new media is changing rapidly and that a proper explanation is needed to track its development. To do this, he argues, one must look at the computers. The international character of the new media requires a different approach from multiple fields. For this exact reason Manovich tries to connect and combine the fields of art, media and history into one explanatory book. Manovich is well aware of the vastness of information about the new media, and therefore properly explains each concept and term. Manovich tried to make a parallel connection with the programming of computer and the history and future of cinema. He does this in a relatively simplified way, which is not a problem at all since there are already many technical terms and concepts; concepts which might be too difficult for an average reader. Furthermore Manovich focusses too much on the aspect of artistic elements to represent the new media, which will cause the reader to feel overwhelmed and cause them to lose the red line of the book. Although Manovich’ writing is reasonably understandable, and the subjects he mentions are well-chosen, the thin selection of the massive field of new media that is presented in this book will make the reader a bit skeptical and make them question the academic and scientific value of this book.
              
             Manovich’ book is worth reading for people interested in new media.
-
