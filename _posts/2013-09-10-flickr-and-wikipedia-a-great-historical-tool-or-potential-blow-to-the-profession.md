@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: "Flickr and Wikipedia: A great historical tool or potential blow to the profession? "
+author: charleswalton2013
 ---
 
 
