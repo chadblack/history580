@@ -177,7 +177,7 @@ B.  [Wikipedia](http://wikipedia.org). How does a wiki work? Wikipedia in partic
 **week 5: computation**  (18 September 2013) 
 
 *Readings:*   
-*  Charles Petzold, *Code: The Hidden Language of Computer Hardware and Software*. Microsoft Press, 2000. [Selections]()
+*  Charles Petzold, *Code: The Hidden Language of Computer Hardware and Software*. Microsoft Press, 2000. [Selections](http://chadblack.net/media/readings/code_1-16.pdf)
 *  [How Computers Work](http://www.fastchip.net/howcomputerswork/p1.html)
 
 
