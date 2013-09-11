@@ -18,6 +18,11 @@ Of course, I cannot escape the feeling that I am missing something, so an intern
 
 The problem in these videos (clip here: http://vimeo.com/15473078) is that all that I ended up paying attention to was the part of the screen where the video was being presented. Rest of the images were elided into the background—not as a part of the narrative of the film, not even as something which was anti-narrative, but something which I only noticed because I was conscious of my need to experience the whole screen. Whatever impact the computer generated movie had wasn’t meaningful; it was random, a pile of laundry and something to be elided into a seprate narrative.
 
+
+Edit: After thinking about it, a simple way of putting my critique is this: I don't know that he gives enough consideration-- or, perhaps, not enough weight in his considerations-- to the individual experience of using new media. He does an excellent job of considering the computer screen as the interface, but not to the actual expereince of using that interface. This critique helps explain in part why I felt so uncomfortable with my above comments: while I do think he should give more credence to the actual user experience, this is a book about the theoretical shifts and possibilities of new media, not the meaning of new media to the individual. 
+
+
+
 Interesting link I found about generating Narrative from Data:
 
  http://toc.oreilly.com/2012/01/narrative-science-kristian-hammond-data-content-generation.html
