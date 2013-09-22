@@ -1,11 +1,11 @@
 ---
 published: true
 layout: post
-title: ""
+title: Protocol
 ---
 
 In _Protocol: How Control Exists after Decentralization_Alexander R. Galloway examines the internet and how, despite an ideology expressing freedom, it is a very regulated and controlled environment.  The key to this regulation is protocol, what Galloway describes as “a set of rules
-which defines a technical standard” (76).  This underlying definition leads Galloway to the main argument of his work:  “I argue that the Internet is distributed not decentralized and that it is in fact highly controlled despite having few if any central points of control” (p. 25).  Galloway identifies the means of this control through the specific aspects of the internet’s protocol, including HTTP, TCP/IP, and HTML.  Because users are forced to respond to these internet protocols, the very interactions, changes, and connections to the internet are from the outset controlled.
+which defines a technical standard” (76).  This underlying definition leads Galloway to the main argument of his work:  “I argue that the Internet is distributed not decentralized and that it is in fact highly controlled despite having few if any central points of control” (25).  Galloway identifies the means of this control through the specific aspects of the internet’s protocol, including HTTP, TCP/IP, and HTML.  Because users are forced to respond to these internet protocols, the very interactions, changes, and connections to the internet are from the outset controlled.
 
 Galloway does a superb job of demonstrating how the very emergence of the internet led to this continued level of control.  For example, by explaining that the internet’s initial reason for being was related to the need to decentralize information during the Cold War Era, it becomes easy to see how decentralization does not equate a new form of total freedom.  Clearly, controls were put in place, just in new forms.  However, Galloway is careful to differentiate the beginnings of the internet and its current incarnation.  Galloway posits that the internet “gains its authority from another place, from technology itself and how people use it” (122).  Therefore, the nature of the internet has changed drastically as its availability has expanded.  Galloway explains that now “protocol is an affective, aesthetic force that has control over life itself ” (81).   In this sense, the internet is in essence a place for multiple groups to interact, each with differing agendas and ideals of what the internet is, should be, and how to respond to those beliefs.  Galloway recognized this by arguing that resistance to the control of the internet continues and has had a long and varied past.
 
