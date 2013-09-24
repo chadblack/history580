@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: "Protocol: Questions to Consider"
+author: mattblaylock
 ---
 
 1.	Galloway highlights the origin of the Internet as its subsequent decentralization to the Cold War.  This military necessity seems to influence the type of language and analysis Galloway extends to the Internet.  Is his focus on this development still relevant to the Internet today or has Galloway overemphasized the military aspects of this work?  Does this in turn cloud any analysis of protocol, decentralization, and the future of the Internet?
