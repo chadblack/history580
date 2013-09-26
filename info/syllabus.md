@@ -209,7 +209,7 @@ B.  [The Internet Map](http://internet-map.net/)
 *  Moretti, *Graphs, Maps, and Trees*, [selection](http://chadblack.net/media/readings/moretti-selections.pdf).  
 *  Some [responses to Graphs, Maps, Trees](http://www.parlorpress.com/pdf/ReadingMapsGraphsTrees.pdf) Choose three of the chapters that look most interesting to you, along with Moretti's responses. 
 *  Michel, et. al. ["Quantitative Analysis of Culture Using Millions of Digitized Books"](http://www.sciencemag.org/content/331/6014/176.abstract), Science 331.6041 pp. 176-182.
-*  Stanford Literary Lab, Pamphlet 1, "[On Quantitative Formalism]"(http://chadblack.net/media/readings/LiteraryLabPamphlet1.pdf)
+*  Stanford Literary Lab, Pamphlet 1, "[On Quantitative Formalism](http://chadblack.net/media/readings/LiteraryLabPamphlet1.pdf)"
 
 
 *Lab:*  
