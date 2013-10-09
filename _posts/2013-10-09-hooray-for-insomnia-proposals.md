@@ -31,14 +31,15 @@ This paper will follow a very specific progress delineated below:
 
 *  After a review of related projects, this paper will attempt to establish a simple logic and methodology for dealing with the mass of information available and how to draw reasonable conclusions from it.   In many ways, this paper will be about the process of digital textual analysis, and may be considered an exploration of the advantages and limitations of such an approach.  
 
-## Sources
+## Tentative Sources
 This paper will be utilizing extant databases as the source of its textual analysis. Google's Ngram Viewer project will, as demonstrated above, offer a useful starting heuristic to guide my research as well as a useful starting place when searching for specific non-periodical texts. [The Library of Congress' Chronicling America: Historical American Newspapers Archive](http://chroniclingamerica.loc.gov/) and the [19th Century Digital Newspapers](http://infotrac.galegroup.com/itw/infomark/0/1/1/purl=rc6_NCNP?sw_aep=knox61277) will provide a strong corpus of newspapers to measure the popular dissemination of relevant terms. [America's Historical Imprints](http://infoweb.newsbank.com/iw-search/we/Evans?p_product=EAIX&p_action=keyword&p_theme=eai&p_nbid=O53L56QLMTM4MTE3MDUyNC44ODQzMzQ6MToxMzoxOTIuMjQ5LjEuMTM5&p_clear_search=yes&d_refprod=EAIX&) and [The Early Americas Digital Archive]( http://mith.umd.edu//eada/)  Will be particularly useful when tracking down early American texts. 
-
 
 
 [^1]: Alexis de Tocqueville and Arthur Goldhammer, *Democracy in America* (New York: Library of America, 2004), 706.
 
 [^2]: Not directly related to this discussion, but important nonetheless: feudalism has been largely discredited as a useful term because in use, it  can (and often does) have contradictory definitions depending upon who is using it; cf. [ Elizabeth A.R. Brown, "The Tyranny of a Construct: Feudalism and Historians of Medieval Europe," The American Historical Review, Vol. 79, No. 4 (Oct., 1974), pp. 1063-1088, at 1075-1076.](http://isites.harvard.edu/fs/docs/icb.topic867458.files/Brown-Tyranny-of-a-Construct.pdf)
+
+*******
 
 # Digital Proposal: Medieval Blog
 by Greg Bearringer
