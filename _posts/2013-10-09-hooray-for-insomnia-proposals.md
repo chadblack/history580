@@ -14,10 +14,10 @@ Alexander de Tocqueville, when comparing American democracy to feudal society, f
 
 In fact,  it is easy to see an increasing consciousness of the concept of "feudalism"  in the decade preceding the revolution: 
 
-![](/http://i.imgur.com/DHQMBIg.png)
+![image](/http://i.imgur.com/DHQMBIg.png)
 
 A cursory search reveals that what we now think of as medieval europe was, in fact, conceived of as *feudal* europe in America:
-![](/http://i.imgur.com/qGSsJHs.png)
+![image](/http://i.imgur.com/qGSsJHs.png)
 
 ## Plan
 
