@@ -5,7 +5,6 @@ title: "Hooray for Insomnia: Proposals"
 author: MonsBadonicus
 ---
 
-
 # Print Proposal: "Feudalism and Bias in American History"
 by Greg Bearringer
 
@@ -32,7 +31,7 @@ This paper will follow a very specific progress delineated below:
 *  After a review of related projects, this paper will attempt to establish a simple logic and methodology for dealing with the mass of information available and how to draw reasonable conclusions from it.   In many ways, this paper will be about the process of digital textual analysis, and may be considered an exploration of the advantages and limitations of such an approach.  
 
 ## Tentative Sources
-This paper will be utilizing extant databases as the source of its textual analysis. Google's Ngram Viewer project will, as demonstrated above, offer a useful starting heuristic to guide my research as well as a useful starting place when searching for specific non-periodical texts. [The Library of Congress' Chronicling America: Historical American Newspapers Archive](http://chroniclingamerica.loc.gov/) and the [19th Century Digital Newspapers](http://infotrac.galegroup.com/itw/infomark/0/1/1/purl=rc6_NCNP?sw_aep=knox61277) will provide a strong corpus of newspapers to measure the popular dissemination of relevant terms. [America's Historical Imprints](http://infoweb.newsbank.com/iw-search/we/Evans?p_product=EAIX&p_action=keyword&p_theme=eai&p_nbid=O53L56QLMTM4MTE3MDUyNC44ODQzMzQ6MToxMzoxOTIuMjQ5LjEuMTM5&p_clear_search=yes&d_refprod=EAIX&) and [The Early Americas Digital Archive]( http://mith.umd.edu//eada/)  Will be particularly useful when tracking down early American texts. 
+This paper will be utilizing extant databases as the source of its textual analysis. Google's Ngram Viewer project will, as demonstrated above, offer a useful starting heuristic to guide my research as well as a useful starting place when searching for specific non-periodical texts. [The Library of Congress' Chronicling America: Historical American Newspapers Archive](http://chroniclingamerica.loc.gov/) and the [19th Century Digital Newspapers](http://infotrac.galegroup.com/itw/infomark/0/1/1/purl=rc6_NCNP?sw_aep=knox61277) will provide a strong corpus of newspapers to measure the popular dissemination of relevant terms. [America's Historical Imprints](http://infoweb.newsbank.com/iw-search/we/Evans?p_product=EAIX&p_action=keyword&p_theme=eai&p_nbid=O53L56QLMTM4MTE3MDUyNC44ODQzMzQ6MToxMzoxOTIuMjQ5LjEuMTM5&p_clear_search=yes&d_refprod=EAIX&) and [The Early Americas Digital Archive]( http://mith.umd.edu//eada/)  will be particularly useful when tracking down early American texts, as will [Archive of Americana](http://infoweb.newsbank.com/iw-search/we/Homepage?p_action=doc&p_theme=current&p_nbid=V5AH5BGQMTM4MTM0NDEzMS44NTcwMzI6MToxMzoxOTIuMjQ5LjEuMTQ5). 
 
 
 [^1]: Alexis de Tocqueville and Arthur Goldhammer, *Democracy in America* (New York: Library of America, 2004), 706.
@@ -46,11 +45,11 @@ by Greg Bearringer
 
 
 ## Introduction: Academic Blogging
-Academic Blogging is a grab bag of intelligent people, exciting research,  and interesting discussion, interesting to both professionals and non-professionals. alike Conversely,  one could read for many years from academic blogs and find low-content, outdated web pages and a not-suprising tendency toward insularity,  often focusing on a particular group of scholars or a particular department. Scientific and "political"  disciplines (Poli Sci, Economics, Law ) having (perhaps) natural advantages, with technology being so important to the former and social media coming more natural to the latter. 
+Academic Blogging is a grab bag of intelligent people, exciting research,  and discussion interesting to both professionals and non-professionals alike. Conversely,  one could read for many years and find only low-content, outdated web pages and a not-suprising tendency toward insularity,  often focusing on a particular group of scholars or a particular department. Scientific and "political"  disciplines (Poli Sci, Economics, Law ) are far more active, having (perhaps) natural advantages-- with technology being so important to the former and social media coming more natural to the latter. 
 
-History/ Humanities blogging, in general, shares many of these characteristics. Most are presentations of research with a sprinkling of hoary warnings of job market doom.  There are some very good websites, however, which follow this format: [Hooke's London](http://hookeslondon.com/), [Wynkn De Worde](http://sarahwerner.net/blog/), and [Magistra Et Mater](http://magistraetmater.blog.co.uk/), to name only a few.  
+History/ Humanities blogging, in general, shares in many of these characteristics. Most are presentations of research with a sprinkling of hoary warnings of job market doom.  There are some very good websites, however, which follow this format: [Hooke's London](http://hookeslondon.com/), [Wynkn De Worde](http://sarahwerner.net/blog/), and [Magistra Et Mater](http://magistraetmater.blog.co.uk/), to name only a few.  
 
-There are very few blogs, however, which might serve as a "hub" of blogging for a particular discipline or field. This is to be expected, however. Though academics have a particular interest in keeping abreast with the happenings within their field (and are naturally an opinionated lot) they usually don't have time to cultivate a blog regularly which keeps track of news stories, events, books, and broader concerns within the discipline and the academy. They are forced to do so when particular inspiration strikes. This makes for very well written posts, but not for the regularly-generated content which successful blogs require for a larger audience. 
+There are very few blogs, however, which might serve as a "hub" of blogging for a particular discipline or field. This is to be expected, however. Though academics have a particular interest in keeping abreast with the happenings within their field (and are naturally an opinionated lot), they usually don't have time to cultivate a blog regularly which keeps track of news stories, events, books, and broader concerns within the discipline and the academy. They are forced to do so when particular inspiration strikes. This makes for very well written posts, but not for the regularly-generated content which successful blogs require for a larger audience. 
 
 It seems like academics would be particularly interested in a well kept blog which provided them with "daily links" and news pertinent to their particular field. Furthermore, if this content could be supplemented with useful introductions to the research of others through book reviews, comments on articles,  and information about new research approaches, it might have a (relatively) large audience available to it. 
 
@@ -62,9 +61,9 @@ The audience would be people with an academic interest in Medieval studies, with
 ## Approach and Content
 ![image](http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/70000/4000/100/74148/74148.strip.gif)
 
-[Scott Adams](http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/70000/4000/100/74148/74148.strip.gif)
+[Scott Adams]
 
-This blog will have three methods of content generation, which will be listed in order of feasibility (within the time frame of this project)
+This blog will have three methods of content generation, which will be listed in order of feasibility (within the time frame of this project):
 
 1) Find relevant news stories and links and post about them regularly with basic commentary:  
 
@@ -85,10 +84,4 @@ Interest generation will involve simple search engine optimization (SEO), mainly
 
 ## What  is a successful Academic (subject) blog? 
 
-The purpose of this blog would not be to fill a niche inside the discipline. Instead, this blog would be an experiment to see just how difficult it is to create a website using such an approach, and whether there is as great a desire for a site like this as I perceive. How much labor is involved with a website which, as conceived, would be updated a minimum of three times per week? How difficult is it to gain readership when the blog is aimed at a very small subset of society?  Is readership the only standard of success? 
-
-
-
-
-
-
+The purpose of this blog would not be to fill a niche inside the discipline. Instead, this blog would be an experiment to see just how difficult it is to create a website using such an approach, and whether there is as great a desire for a site like this as I perceive. How much labor is involved with a website which, as conceived, would be updated a minimum of three times per week? How difficult is it to gain readership when the blog is aimed at a very small subset of society?  Is readership the only standard of success?
