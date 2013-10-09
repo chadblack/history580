@@ -59,7 +59,7 @@ The audience would be people with an academic interest in Medieval studies, with
 
 
 ## Approach and Content
-![](http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/70000/4000/100/74148/74148.strip.gif)
+![image](http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/70000/4000/100/74148/74148.strip.gif)
 
 This blog will have three methods of content generation, which will be listed in order of feasibility (within the time frame of this project)
 
