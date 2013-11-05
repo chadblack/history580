@@ -286,9 +286,11 @@ B.  [The Internet Map](http://internet-map.net/)
 **week 13: Copyright**  (13 November 2013)  
 
 *Readings:*   
-T.B.D  
 
-*Lab:*
+*  Lawrence Lessig, *Free Culture: How Big Media Uses Technology and the Law to Lock Down Culture and Control Creativity* (2004) [Choose your format](http://www.jus.uio.no/sisu/free_culture.lawrence_lessig/sisu_manifest.html)
+*  John Willinsky, *The Access Principle* (MIT Press, 2006). [pdf](http://mitpress.mit.edu/sites/default/files/titles/content/9780262512664_Download_the_full_text.pdf)
+*  Cohen and Rosenzweig, [Owning the Past](http://chnm.gmu.edu/digitalhistory/copyright/), *Digital History*.  
+*  Go to the [Creative Commons](http://creativecommons.org) and see if you can figure out what the different licenses mean.  
 
 **week 14: Scholarly Communication in the Digital Age** (20 November 2013)  
 
