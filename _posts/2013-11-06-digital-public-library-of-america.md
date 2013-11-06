@@ -1,0 +1,16 @@
+---
+published: true
+layout: post
+title: Digital Public Library of America
+author: jtomlin1
+---
+
+
+
+	In the article on Readings in Design for Digital Humanities, I was relatively impressed with the 
+	link for Cohen’s Digital Public Library of America. As we’ve discussed before on numerous 	occasions, the larger digitization of Early American imprints, manuscripts, broadsides, news-
+	papers, and other texts is an ongoing process that has been making swath-like strides towards 
+	databases and online catalogs online for everyone. There is a separate debate to be had over 	the relative success of such efforts. (Some, or maybe even most, digital libraries or digitized 	collections are pay-based or membership/affiliation dependent; Sabin Americana, Jstor, and a 	few other immediately come to mind but this list abounds). A foreseeable problem, however, 	aside from how to make these more widely available and, eventually, completely free, is that of 	connectivity or interaction between these expanding digital sources. After perusing Cohen’s 	organization’s site page and holdings, I’m convinced that this kind of format allows for a 	potential solution to that problem. 
+	
+	As he points out on the original article link(not the site page), the effort isn’t designed to 	supplant or replace public libraries and collection holdings. It is, however, aimed at increasing 	the combined power of their physical holdings and national digital collections at a single 	junction/location for greater ease of access and research efficiency. Just looking at the early 	American sermon portion, despite it’s clunky categorization and relatively arbitrary design 	implementation( nineteenth century sermons actually span a century and a half, 	Congregationalist sermons include those by Presbyterians before their synod split and formal 	institutionalization apart from Congregationalism even though their is a separate Presbyterian 	sermon category) this kind of site could be big for those of us looking at a depressing amount 	of relatively short research slogs into various states, holdings, and libraries. Moreover, in its 	perfected form, this site offers a potential escape for all of the redundancies and duplications 	within the currently available digital collections I’m familiar with. Theoretically, I won’t have to 	waste time, money, and effort on scanning through tracts that are identical, if misnamed, from 	those I’ve already seen. Considering the site is meant to refer to the suggestions and 	contributions of it’s readers/users rather than university controls, bureaucracy, and archive 	rules, finding and fixing these problems might also be easier and faster. I haven’t spent longer 	than a couple of hours looking through the site, and its holdings, while impressive, are still 	relatively tiny compared to such a broad and ambitious mission statement. That said, this could 	be huge in the years to come for us Americanists.  
+    What does everyone else think? how Familiar were you with this asset before this reading list? Am I the only one unfamiliar with this thing/ are there more like it? 
