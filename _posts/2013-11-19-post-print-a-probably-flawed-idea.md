@@ -7,7 +7,7 @@ author: MonsBadonicus
 
 ## "It's Only a Model"
 
-![Camelot](https://www.youtube.com/watch?v=m3dZl3yfGpc)
+![Camelot](http://www.intriguing.com/mp/_pictures/grail/large/HolyGrail038.jpg)
 
 Beginning with last week's readings (and certainly encouraged by this weeks readings) I began to wondering just what a post-print (or at least a post-publisher) world might look like. Some of my considerations, in no particular order:
 
