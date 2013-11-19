@@ -7,7 +7,7 @@ author: MonsBadonicus
 
 ## "It's Only a Model"
 
-![Camelot](<iframe width="854" height="510" src="//www.youtube.com/embed/m3dZl3yfGpc" frameborder="0" allowfullscreen></iframe>)
+![Camelot](https://www.youtube.com/watch?v=m3dZl3yfGpc)
 
 Beginning with last week's readings (and certainly encouraged by this weeks readings) I began to wondering just what a post-print (or at least a post-publisher) world might look like. Some of my considerations, in no particular order:
 
