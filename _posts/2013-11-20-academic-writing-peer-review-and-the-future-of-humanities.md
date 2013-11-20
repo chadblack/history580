@@ -5,8 +5,6 @@ title: "Academic writing, peer review, and the future of humanities "
 author: charleswalton2013
 ---
 
-## Academic writing, peer review, and the future of humanities 
-
 
 Townsend’s piece on the future of peer review brings up some very valuable points regarding the digital’s impact on the future of peer review. He correctly states, “The current peer review system promotes conservatism about the form and content of scholarship, and fails to use available technologies to speed up and democratize the system.” Based off our in-class discussion last week and past readings, it seems both the peer review process, and the act of publishing, is overdue for an overhaul. Not only is it becoming clear that academic publishing is little more than a cash cow for many of the companies involved, scholars are willingly, and often excited about, having their labor extracted from them for almost nothing in return. As Townsend explains, the system is broken and it is now time to use the available tools to fix it. 
 
