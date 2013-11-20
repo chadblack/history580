@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: "Academic writing, peer review, and the future of humanities "
+author: charleswalton2013
 ---
 
 ## Academic writing, peer review, and the future of humanities 
