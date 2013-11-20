@@ -6,6 +6,7 @@ author: charleswalton2013
 ---
 
 
+
 Townsend’s piece on the future of peer review brings up some very valuable points regarding the digital’s impact on the future of peer review. He correctly states, “The current peer review system promotes conservatism about the form and content of scholarship, and fails to use available technologies to speed up and democratize the system.” Based off our in-class discussion last week and past readings, it seems both the peer review process, and the act of publishing, is overdue for an overhaul. Not only is it becoming clear that academic publishing is little more than a cash cow for many of the companies involved, scholars are willingly, and often excited about, having their labor extracted from them for almost nothing in return. As Townsend explains, the system is broken and it is now time to use the available tools to fix it. 
 
 One challenge to this is the large number of scholars and students who are unfamiliar with digital technology, and their reluctance to learn. Also, the prestige surrounding well-known publishers complicates matters further. How are these obstacles going to be overcome? Will it just be a matter of time? For the latter, it seems as if the field is need of some self-evaluation and it’s not quite clear if elitist values are ever going to be lost in academia. 
