@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: Thoughts on the stuff
+author: radiationturnips
 ---
 
 The readings this week stimulated a few thoughts in no particular order: 
