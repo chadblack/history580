@@ -1,5 +1,5 @@
 safe: true
-base-url: /
+base-url: /history580
 post_dirs: false
 destination: ../_site
 
@@ -7,7 +7,7 @@ readings: "http://chadblack.net/media/readings"
 
 plugins: ./_plugins
 
-markdown: maruku
+
 permalink: pretty
 
 timezone: America/New_York
@@ -16,7 +16,7 @@ lsi: true
 # prose options
 prose:
   rooturl: "_posts"
-  siteurl: "http://dh.chadblack.net"
+  siteurl: "http://chadblack.net/history580/"
   metadata:
     _posts:
       - name: "layout"
