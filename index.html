@@ -11,10 +11,10 @@ meta-description: "History 580/482 is a seminar in Digital History offered at th
 <nav>
 	<h2 class="section_title">Info</h2>
 	<ul class="items">
-		<li><span class="bullet">Why are we here?</span> <a href="/info/about/">     About</a></li>
-		<li><span class="bullet">What are we doing?</span> <a href="/info/assignments/">   Assignments</a></li>
-        <li><span class="bullet">When are we doing it?</span><a href="/info/syllabus/"> Syllabus</a></li>
-		<li><span class="bullet">How was this made?</span> <a href="/info/colophon/"> Colophon</a></li>
+		<li><span class="bullet">Why are we here?</span> <a href="/history580/info/about/">     About</a></li>
+		<li><span class="bullet">What are we doing?</span> <a href="/history580/info/assignments/">   Assignments</a></li>
+        <li><span class="bullet">When are we doing it?</span><a href="/history580/info/syllabus/"> Syllabus</a></li>
+		<li><span class="bullet">How was this made?</span> <a href="/history580/info/colophon/"> Colophon</a></li>
 	</ul>
 </nav>
 
@@ -24,7 +24,7 @@ meta-description: "History 580/482 is a seminar in Digital History offered at th
 		{% for post in site.posts limit: 20 %}
             <li><span class="bullet">{{post.date | date_to_string }}</span> <a href="{{post.url }}">{{ post.author }}|{{ post.title }}</a></li>
 		{% endfor %}
-        <li><br><a href="/info/all_posts/">show all . . .</a></li>
+        <li><br><a href="/history580/info/all_posts/">show all . . .</a></li>
 	</ul>
 </nav>
 
